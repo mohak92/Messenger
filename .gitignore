@@ -94,3 +94,5 @@ Info.plist
 **/Info.plist
 tmdb-info.plist
 **/tmdb-info.plist
+GoogleService-Info.plist
+**/GoogleService-Info.plist
