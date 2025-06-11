@@ -13,7 +13,7 @@ This is a clone of Meta's Messenger Application developed in Swift and SwiftUI.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/mertdurkaya/Messenger.git
+   git clone https://github.com/mohak92/Messenger.git
    ```
 2. Navigate to the project directory:
 
